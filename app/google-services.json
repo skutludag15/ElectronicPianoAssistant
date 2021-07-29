@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "201117374570",
+    "firebase_url": "https://realtimefirebase-859ea.firebaseio.com",
+    "project_id": "realtimefirebase-859ea",
+    "storage_bucket": "realtimefirebase-859ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201117374570:android:4ca3839ebaf82e3bf59213",
+        "android_client_info": {
+          "package_name": "com.example.pianoassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201117374570-dnop42celn9cjv3mshkag5u1gdv5l60m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZwjom5_Uh7ESXZtU-voMHFvzgNJHWIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201117374570-dnop42celn9cjv3mshkag5u1gdv5l60m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201117374570:android:de2efc072f9c25b5f59213",
+        "android_client_info": {
+          "package_name": "com.example.pianoteachingassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201117374570-dnop42celn9cjv3mshkag5u1gdv5l60m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZwjom5_Uh7ESXZtU-voMHFvzgNJHWIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201117374570-dnop42celn9cjv3mshkag5u1gdv5l60m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201117374570:android:097636e9394b29ce",
+        "android_client_info": {
+          "package_name": "com.example.realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201117374570-5msuulncmcpn0u45kb7sbq060tk9s2ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimefirebase",
+            "certificate_hash": "2cb43d3587132f3f6bf519d9a479bac4572714da"
+          }
+        },
+        {
+          "client_id": "201117374570-dnop42celn9cjv3mshkag5u1gdv5l60m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZwjom5_Uh7ESXZtU-voMHFvzgNJHWIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201117374570-dnop42celn9cjv3mshkag5u1gdv5l60m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
